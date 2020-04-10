@@ -15,7 +15,11 @@ A API está disponível na plataforma Heroku, para utilizar basta acessar:
 ### Download
 
 ```
-git clone https://github.com/codenation-dev/squad-3-ad-nodejs-kroton-1.git
+Clone with HTTPS 
+https://github.com/dasilvaguilhermecesar/api-central-de-erros.git
+
+Clone with SSH
+git@github.com:dasilvaguilhermecesar/api-central-de-erros.git
 ```
 
 ### Instalação de dependencias
