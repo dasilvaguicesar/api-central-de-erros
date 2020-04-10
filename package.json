@@ -1,6 +1,6 @@
 {
   "name": "centralerros",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "description": "Store and retrieve application logs",
   "main": "./src/bin/server.js",
   "scripts": {
